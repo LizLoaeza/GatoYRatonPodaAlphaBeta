@@ -1,3 +1,9 @@
+/*
+    Juego del Gato y el ratón con IA
+    Trabajo hecho para la materia de Inteligencia Artificial I.
+    Por Elizabeth Loaeza Morales
+*/
+
 #include<stdio.h>
 #include<stdbool.h>
 
